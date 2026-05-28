@@ -95,7 +95,7 @@ This project helps:
 
 ## 🔗 GitHub Repository
 
-[(Add your GitHub repository link here)](https://github.com/DEEPIKAV166/Mini-Project-Excel-and-PowerBI)
+(https://github.com/DEEPIKAV166/Mini-Project-Excel-and-PowerBI)
 
 ---
 

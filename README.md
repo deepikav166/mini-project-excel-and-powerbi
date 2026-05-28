@@ -1,4 +1,4 @@
-# Customer Loan Approval and Risk Analytics
+# Customer Loan Approval and Risk Analytics in Banking Sector
 
 ## 📌 Project Overview
 
@@ -87,7 +87,7 @@ This project helps:
 
 <img width="774" height="438" alt="Loan appr db ss" src="https://github.com/user-attachments/assets/e4168a72-34bd-474f-85d7-86ecd35075a6" />
 <img width="773" height="435" alt="loan app db ss2" src="https://github.com/user-attachments/assets/cc5aba58-d219-4407-877c-126e57b34fc6" />
-<img width="773" height="435" alt="loan app db ss2" src="https://github.com/user-attachments/assets/deef1a9c-ee60-44b8-aad6-58b6ce6fc126" />
+<img width="774" height="440" alt="new risk db ss" src="https://github.com/user-attachments/assets/76e3e368-dc0f-4f5b-8055-053ab9ad92c6" />
 <img width="774" height="440" alt="DASH BRD RISK SS" src="https://github.com/user-attachments/assets/fc9d25b0-be09-4ca3-9524-cb2754c18209" />
 
 
@@ -101,4 +101,3 @@ This project helps:
 
 ## 👨‍💻 Author
 Deepika V
-DEEPI
